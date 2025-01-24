@@ -11,7 +11,7 @@ namespace Assignment.Second_Project
     {
     
        
-        #region method
+        #region methods
         public static double Add(double _var1, double _var2)
         {  
             return _var1+ _var2;
